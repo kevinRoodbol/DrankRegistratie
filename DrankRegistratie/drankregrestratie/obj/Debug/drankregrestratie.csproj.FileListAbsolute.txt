@@ -1,0 +1,14 @@
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\bin\Debug\drankregrestratie.exe.config
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\bin\Debug\drankregrestratie.exe
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\bin\Debug\drankregrestratie.pdb
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\obj\Debug\drankregrestratie.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\obj\Debug\MainWindow.g.cs
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\obj\Debug\App.g.cs
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\obj\Debug\drankregrestratie_MarkupCompile.cache
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\obj\Debug\drankregrestratie_MarkupCompile.lref
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\obj\Debug\MainWindow.baml
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\obj\Debug\drankregrestratie.g.resources
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\obj\Debug\drankregrestratie.Properties.Resources.resources
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\obj\Debug\drankregrestratie.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\obj\Debug\drankregrestratie.exe
+C:\Users\Kevin\source\repos\drankregrestratie\drankregrestratie\obj\Debug\drankregrestratie.pdb
